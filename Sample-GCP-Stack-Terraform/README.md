@@ -1,4 +1,4 @@
-# Deploying GCP VMs located in a private subnet, inside an unmanaged instance group, with a load balancer using Terraform
+# Deploying VMs in GCP using terrafrom.
 
 Install two instances with Apache web server located in private subnet using Terraform. 
 
